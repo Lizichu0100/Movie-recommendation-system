@@ -4,11 +4,11 @@
 
 Trong project này, bọn mình sẽ phân tích dữ liệu chủ đề về phim (movie). Đây đều là những dữ liệu đã khá cũ (những bộ phim từ trước năm 2000 là chủ yếu).
 
-Các bước bọn mình làm trên project này
+Các bước bọn mình làm trên project này:
 
-  Phần 1. Explore Data Analysis
+   Phần 1. Explore Data Analysis
 
-  Phần 2. Recommendation System sử dụng hai phương pháp 
+   Phần 2. Recommendation System sử dụng hai phương pháp: 
 
    -  Collaborative Filtering
 
