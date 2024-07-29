@@ -1,4 +1,5 @@
 #  Movie Recommendation System
+![](./materials/thumbnail.jpg)
 
 Đây là project cuối kỳ nhóm 3 người môn "Python cho khoa học dữ liệu" - HCMUS. Trong project này, bọn mình sẽ nghiên cứu về một thuật toán thú vị trong ngành khoa học dữ liệu mà có nhiều ứng dụng như youtube, tiktok, netflix,... sử dụng đó chính là thuật toán hệ thống gợi ý (Recommendation System) dùng để gợi ý các bộ phim, video,... mà người dùng thích và sẽ đề xuất cho người dùng xem những bộ phim, video tương tự.
 
