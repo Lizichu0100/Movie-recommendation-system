@@ -6,13 +6,13 @@ Trong project này, bọn mình sẽ phân tích dữ liệu chủ đề về ph
 
 Các bước bọn mình làm trên project này:
 
-   Phần 1. Explore Data Analysis
+- Phần 1. Explore Data Analysis
 
-   Phần 2. Recommendation System sử dụng hai phương pháp: 
+- Phần 2. Recommendation System sử dụng hai phương pháp: 
 
-   -  Collaborative Filtering
+   +  Collaborative Filtering
 
-   -  Content Filtering
+   +  Content Filtering
 
 Chi tiết hơn về project này, các bạn xem trong file Movie_Recommendation_System.ipynb nhé.
 
