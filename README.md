@@ -16,4 +16,4 @@ Trong project này, bọn mình sẽ phân tích dữ liệu chủ đề về ph
 
 Chi tiết hơn về project này, các bạn xem trong file Movie_Recommendation_System.ipynb nhé. Ngôn ngữ lập trình được sử dụng là python.
 
-Bọn mình có để các raw data gốc bao gồm ratings.dat và movies.dat, users.dat trong thư mục raw_data. Các bạn có thể tải về và chạy thử, khuyến khích các bạn chạy code trên google colab.
+Bọn mình có để các raw data gốc bao gồm ratings.dat, movies.dat, và users.dat trong thư mục raw_data. Các bạn có thể tải về và chạy thử, khuyến khích các bạn chạy code trên google colab.
