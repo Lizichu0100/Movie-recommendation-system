@@ -6,9 +6,9 @@ Trong project này, bọn mình sẽ phân tích dữ liệu chủ đề về ph
 
 **Các bước bọn mình làm trên project này:**
 
-- Phần 1. Explore Data Analysis (Thống kê căn bản, xử lý số liệu,...)
+- Bước 1. Explore Data Analysis (Thống kê căn bản, xử lý số liệu,...)
 
-- Phần 2. Recommendation System sử dụng hai phương pháp: 
+- Bước 2. Recommendation System sử dụng hai phương pháp: 
 
    +  Collaborative Filtering
 
