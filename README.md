@@ -15,3 +15,5 @@ Các bước bọn mình làm trên project này:
    -  Content Filtering
 
 Chi tiết hơn về project này, các bạn xem trong file Movie_Recommendation_System.ipynb nhé.
+
+Bọn mình có để các raw data gốc bao gồm ratings.dat và movies.dat, users.dat trong thư mục raw_data. Các bạn có thể tải về và chạy thử, khuyến khích các bạn chạy code trên google colab.
